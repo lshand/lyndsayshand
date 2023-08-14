@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "lyndsayshand"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - pubs.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

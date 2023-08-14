@@ -1,0 +1,27 @@
+---
+title: "Publications"
+output: 
+  blogdown: html_document
+---
+
+**Shand, L.**, A. Staid, E.L. Roesler, an K. Larson (2022). An observational study of the persistence of ship tracks using GOES-R satellite imagery and AIS ship positions. *Environmental Data Science (In Preparation).*
+
+Tucker J.D.,  **L. Shand**, and K. Chowdhary (2021). Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo. *Computational Statistics and Data Analysis*. DOI: 10.1016/j.csda.2021.107298
+
+Patel, L., **L. Shand**, J.D. Tucker, and G. Huerta (2020). Assessing extreme value analysis to predict rare events from the global terrorism database. In JSM Proceedings, Section on Statistics in Defense and National Security. Alexandria, VA: American Statistical Association
+
+Patel, L. and **L. Shand** (2020). Simulating cloud-aerosol interactions made by ship emissions. In JSM Proceedings, Section on Statistics and the Environment. Alexandria, VA: American Statistical Association
+
+Harris, T., Tucker J.D., B. Li, and **L. Shand** (2020). Elastic depths for detecting shape anomalies in functional data. *Technometrics*. doi: 10.1080/00401706.2020.1811156
+
+Tucker, J. D., **L. Shand**, J. R. Lewis (2018). Handling Missing Data in self-exciting point process models. *Spatial Statistics*. 29.160-176. 
+
+Guo S., M. A. Cooper., and **L. Shand** (2018). A statistical representation of pyrotechnic research igniter output. *AIP Conference Proceedings*. 1979 (1). doi: 10.1063/1.5044973
+
+**Shand, L.** and B. Li (2018). Spatially Varying Autoregressive Models for Prediction of New HIV Diagnoses. *Journal of the Royal Statistical Society: Series C*.  https://doi.org/10.1111/rssc.12269
+
+**Shand, L.** and B. Li (2017). Modeling Nonstationarity in Space and Time. *Biometrics*.  https://doi.org/10.1111/biom.12656
+
+**Shand, L.**, W. M. Brown, L. F. Chaves, T. L. Goldberg, G. L. Hamer, L. Haramis, U. Kitron, E. D. Walker, and M.O. Ruiz (2016). Predicting West Nile Virus Infection Risk From the Synergistic Effects of Rainfall and Temperature. *Journal of Medical Entomology*. 1-10. doi: 10.1093/jme/tjw042.
+
+<br>
