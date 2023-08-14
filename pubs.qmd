@@ -14,17 +14,12 @@ L. Patel, L. Shand, J.D. Tucker, and G. Huerta (2020). Assessing extreme value a
 
 Harris, T., Tucker J.D., B. Li, and L. Shand (2020). Elastic depths for detecting shape anomalies in functional data. *Technometrics*. doi: 10.1080/00401706.2020.1811156
 
-
-Tucker, J. D., \*\*L. Shand\*\*, J. R. Lewis (2018). Handling Missing Data in self-exciting point process models. \*Spatial Statistics\*. 29.160-176. 
-
+Tucker, J. D., \*\*L. Shand\*\*, J. R. Lewis (2018). Handling Missing Data in self-exciting point process models. \*Spatial Statistics\*. 29.160-176.
 
 Guo S., M. A. Cooper., and \*\*L. Shand\*\* (2018). A statistical representation of pyrotechnic research igniter output. \*AIP Conference Proceedings\*. 1979 (1). doi: 10.1063/1.5044973
 
-
 \*\*Shand, L.\*\* and B. Li (2018). Spatially Varying Autoregressive Models for Prediction of New HIV Diagnoses. \*Journal of the Royal Statistical Society: Series C\*. https://doi.org/10.1111/rssc.12269
 
-
 \*\*Shand, L.\*\* and B. Li (2017). Modeling Nonstationarity in Space and Time. \*Biometrics\*. https://doi.org/10.1111/biom.12656
-
 
 \*\*Shand, L.\*\*, W. M. Brown, L. F. Chaves, T. L. Goldberg, G. L. Hamer, L. Haramis, U. Kitron, E. D. Walker, and M.O. Ruiz (2016). Predicting West Nile Virus Infection Risk From the Synergistic Effects of Rainfall and Temperature. \*Journal of Medical Entomology\*. 1-10. doi: 10.1093/jme/tjw042.
