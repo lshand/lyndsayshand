@@ -2,7 +2,13 @@
 title: "Publications"
 ---
 
-D. Yarger, B. Wagman, L. Shand and K. Chowdhary (2023). Autocalibration of the E3SM version 2 atmosphere model using a PCA-based surrogate for spatial fields. *Under Review.*
+Wang, M., Harris, T., Shand, L. and Li, B., Changepoint Detection and Estimation for Spatial Functional Data - Detecting the Fingerprint of Mt. Pinatubo Eruption on Global Temperatures. *In Progress.*
+
+Jun, S, L. Shand, and B. Li (2024). Tracing the impacts of Mount Pinatubo eruption on regional climate using spatially-varying changepoint detection. *Under Review.*
+
+Garrett, R, Shand, L. and Huerta J.G. (2024). A multivariate dynamic linear model for characterizing downstream impact of the Mt Pinatubo volcanic eruption. *Under Review.* https://doi.org/10.48550/arXiv.2408.13392
+
+Yarger, D., Wagman, B. M., Chowdhary, K., & Shand, L. (2024). Autocalibration of the E3SM version 2 atmosphere model using a PCA-based surrogate for spatial fields. Journal of Advances in Modeling Earth Systems, 16, e2023MS003961. https://doi.org/10.1029/2023MS003961
 
 K. M. Larson, L. Shand, A. Staid, S. Gray, E. L. Roesler and D. Lyons (2022). "An Optical Flow Approach to Tracking Ship Track Behavior Using GOES-R Satellite Imagery," in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 15, pp. 6272-6282, 2022, doi: 10.1109/JSTARS.2022.3193024.
 
