@@ -4,9 +4,9 @@ title: "Publications"
 
 Wang, M., Harris, T., Shand, L. and Li, B., Changepoint Detection and Estimation for Spatial Functional Data - Detecting the Fingerprint of Mt. Pinatubo Eruption on Global Temperatures. *In Progress.*
 
-Jun, S, L. Shand, and B. Li (2024). Tracing the impacts of Mount Pinatubo eruption on regional climate using spatially-varying changepoint detection. *Under Review.*
+Jun, S, L. Shand, and B. Li (2024). Tracing the impacts of Mount Pinatubo eruption on regional climate using spatially-varying changepoint detection. *Under Review.* \url{https://doi.org/10.48550/arXiv.2409.08908}
 
-Garrett, R, Shand, L. and Huerta J.G. (2024). A multivariate dynamic linear model for characterizing downstream impact of the Mt Pinatubo volcanic eruption. *Under Review.* https://doi.org/10.48550/arXiv.2408.13392
+Garrett, R, Shand, L. and Huerta J.G. (2024). A multivariate dynamic linear model for characterizing downstream impact of the Mt Pinatubo volcanic eruption. *Under Review.* \url{https://doi.org/10.48550/arXiv.2408.13392}
 
 Yarger, D., Wagman, B. M., Chowdhary, K., & Shand, L. (2024). Autocalibration of the E3SM version 2 atmosphere model using a PCA-based surrogate for spatial fields. Journal of Advances in Modeling Earth Systems, 16, e2023MS003961. https://doi.org/10.1029/2023MS003961
 
