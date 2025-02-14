@@ -9,3 +9,5 @@ It is a continual work in progress.
 Email: lshand\@sandia.gov
 
 Github: [github.com/lshand](github.com/lshand)
+
+Looking for consulting support? See how to reach out \[here\](pbconsulting.qmd).

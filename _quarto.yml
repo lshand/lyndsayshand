@@ -7,8 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - pubs.qmd
+      - href: about.qmd
+        text: About Me
+      - href: pubs.qmd
+        text: Publications
+      - href: pbconsulting.qmd
+        text: Pro Bono Consulting
 
 format:
   html:
