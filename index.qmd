@@ -1,5 +1,12 @@
 ---
 title: "lyndsayshand"
+about:
+  template: trestles
+  image: lyndsay.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lshand
 ---
 
 Welcome to my personal research blog.
@@ -7,7 +14,5 @@ Welcome to my personal research blog.
 It is a continual work in progress.
 
 Email: lshand\@sandia.gov
-
-Github: [github.com/lshand](github.com/lshand)
 
 Looking for consulting support? See how to reach out [here](pbconsulting.qmd).
