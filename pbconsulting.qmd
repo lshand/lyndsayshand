@@ -4,8 +4,9 @@ title: "Pro Bono Consulting"
 
 Are you a non profit organization or small business that needs help with data management, data analysis or data visualizations?
 
-Do you need data support to secure a research grant?
+-   Data Analysis: Have a lot of data (organized or not) and not sure what you can learn from it?
 
-Are you unsure if/how AI could help your business?
+-   Surveys/Data Collection: Do you need trusted data to secure a research grant?
+
 
 I provide free-of-charge consulting as well as data and analysis solutions to local businesses. Please reach out to [lyndsayshand\@gmail.com](mailto:lyndsayshand@gmail.com) for a consult and to start a conversation about how I can help.
