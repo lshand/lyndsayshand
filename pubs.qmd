@@ -2,13 +2,9 @@
 title: "Publications"
 ---
 
-Wagman, B. M., Collins, G., & Shand, L. (2025). Autocalibration of the E3SM version 3. *In Progress*
+Garrett, R, Shand, L. and Huerta J.G. (2025). A multivariate dynamic linear model for characterizing downstream impact of the Mt Pinatubo volcanic eruption. *Environmetrics.* 
 
-Wang, M., Harris, T., Shand, L. and Li, B. (2025), Changepoint Detection and Estimation for Spatial Functional Data - Detecting the Fingerprint of Mt. Pinatubo Eruption on Global Temperatures. *Submitted to Annals of Applied Statistics.*
-
-Garrett, R, Shand, L. and Huerta J.G. (2025). A multivariate dynamic linear model for characterizing downstream impact of the Mt Pinatubo volcanic eruption. *In Revisions.* \url{https://doi.org/10.48550/arXiv.2408.13392}
-
-Wheeler, L., B. Wagman, W. Smith, P. Davies, B. Cook, S. Brunell, A. Glen, D. Hackenburg, J. Lien, L. Shand, T. Zeitler (2025). Design and Simulation of a Logistically Constrained High Latitude, Low Altitude Stratospheric Aerosol Injection Scenario. *Environmental Research Letters.* Accepted Feb 2025.
+Wheeler, L., B. Wagman, W. Smith, P. Davies, B. Cook, S. Brunell, A. Glen, D. Hackenburg, J. Lien, L. Shand, T. Zeitler (2025). Design and Simulation of a Logistically Constrained High Latitude, Low Altitude Stratospheric Aerosol Injection Scenario. *Environmental Research Letters.* 20 (4): 044011.
 
 Jun, S, L. Shand, and B. Li (2025). Tracing the impacts of Mount Pinatubo eruption on regional climate using spatially-varying changepoint detection. *Annals of Applied Statistics*.19 (1) \url{https://doi.org/10.1214/24-AOAS1968}
 
