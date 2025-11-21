@@ -15,8 +15,6 @@ It is a continual work in progress.
 
 Email: lshand\@sandia.gov
 
-Looking for consulting support? See how to reach out [here](pbconsulting.qmd).
-
 About Me:
 
 I am a research statistician in the statistical sciences department at Sandia National Laboratories where I develop novel statistical approaches to national security problems. I also hold an adjunct faculty position in the department of statistics at the University of Illinois Urbana-Champaign. My research interests include spatial and spatio-temporal statistics, point process models, Bayesian hierarchical models, and Statistical methods for remotely-sensed data, atmospheric and climate applications.

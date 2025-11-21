@@ -2,7 +2,11 @@
 title: "Publications"
 ---
 
-Garrett, R, Shand, L. and Huerta J.G. (2025). A multivariate dynamic linear model for characterizing downstream impact of the Mt Pinatubo volcanic eruption. *Environmetrics.* 
+Wagman, B. M., G. Collins, L. Shand, and B. Harrop. [Automated Calibration of E3SMv3 for Low or High Equilibrium Climate Sensitivity.](https://essopenarchive.org/users/660285/articles/1353280-automated-calibration-of-e3smv3-for-low-or-high-equilibrium-climate-sensitivity) *Under Review.*
+
+Wang, M., T. Harris, L. Shand, and B. Li. Evaluating Fingerprint of Mt. Pinatubo Eruption on Stratospheric Temperatures with Spatial Functional Changepoints. *Under Review.*
+
+Garrett, R, Shand, L. and Huerta J.G. (2025). [A multivariate dynamic linear model for characterizing downstream impact of the Mt Pinatubo volcanic eruption.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/env.70030) *Environmetrics.* 36(6).
 
 Wheeler, L., B. Wagman, W. Smith, P. Davies, B. Cook, S. Brunell, A. Glen, D. Hackenburg, J. Lien, L. Shand, T. Zeitler (2025). Design and Simulation of a Logistically Constrained High Latitude, Low Altitude Stratospheric Aerosol Injection Scenario. *Environmental Research Letters.* 20 (4): 044011.
 
