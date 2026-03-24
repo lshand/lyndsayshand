@@ -2,11 +2,13 @@
 title: "Publications"
 ---
 
-Wang, M., Harris, T., Shand, L. and Li, B. (2025), Changepoint Detection and Estimation for Spatial Functional Data - Detecting the Fingerprint of Mt. Pinatubo Eruption on Global Temperatures. *Submitted to Journal of American Statistical Association.*
+Wagman, B., L. Shand and G. Collins (2026). Automated Calibration of E3SMv3. *n Revisions.*
 
-Garrett, R, Shand, L. and Huerta J.G. (2025). A multivariate dynamic linear model for characterizing downstream impact of the Mt Pinatubo volcanic eruption. *In Revisions.* \url{https://doi.org/10.48550/arXiv.2408.13392}
+Yan, S., Wang, M., Harris, T., Shand, L. and Li, B. (2026), Changepoint Detection and Estimation for Spatial Functional Data - Detecting the Fingerprint of Mt. Pinatubo Eruption on Global Temperatures. *Journal of Agriculturak, Biological and Environmental Statistics.* Accepted March 2026
 
-Wheeler, L., B. Wagman, W. Smith, P. Davies, B. Cook, S. Brunell, A. Glen, D. Hackenburg, J. Lien, L. Shand, T. Zeitler (2025). Design and Simulation of a Logistically Constrained High Latitude, Low Altitude Stratospheric Aerosol Injection Scenario. *Environmental Research Letters.* Accepted Feb 2025.
+Garrett, R, Shand, L. and Huerta J.G. (2025). A multivariate dynamic linear model for characterizing downstream impact of the Mt Pinatubo volcanic eruption. *Environmetrics*. *36(6). DOI:10.1002/env.70030.*
+
+Wheeler, L., B. Wagman, W. Smith, P. Davies, B. Cook, S. Brunell, A. Glen, D. Hackenburg, J. Lien, L. Shand, T. Zeitler (2025). Design and Simulation of a Logistically Constrained High Latitude, Low Altitude Stratospheric Aerosol Injection Scenario. *Environmental Research Letters.*
 
 Jun, S, L. Shand, and B. Li (2025). Tracing the impacts of Mount Pinatubo eruption on regional climate using spatially-varying changepoint detection. *Annals of Applied Statistics* (*Accepted for publication Oct 2024).* \url{https://doi.org/10.48550/arXiv.2409.08908}
 
