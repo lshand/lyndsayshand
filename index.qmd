@@ -19,6 +19,14 @@ About Me:
 
 I am a research statistician in the statistical sciences department at Sandia National Laboratories where I develop novel statistical approaches to national security problems. I also hold an adjunct faculty position in the department of statistics at the University of Illinois Urbana-Champaign. My research interests include spatial and spatio-temporal statistics, point process models, Bayesian hierarchical models, and Statistical methods for remotely-sensed data, atmospheric and climate applications.
 
-I received my B.S. in Mathematics and Spanish at Bucknell University in Lewisburg, Pennsylvania after growing up skiing and swimming in Park City, Utah. Afterwards, I earned my Ph.D. in Statistics from the University of Illinois Urbana-Champaign where research focus was in spatial-temporal statistics.
+I received my B.S. in Mathematics and Spanish at Bucknell University in Lewisburg, Pennsylvania after growing up skiing and swimming in Park City, Utah. Afterwards, I earned my Ph.D. in Statistics from the University of Illinois Urbana-Champaign where research focus was in spatial-temporal statistics. Outside of my research, I still compete competitively in swimming and enjoy engaging with and building the local swimming community in Albuquerque!
 
-Outside of my research, I still compete competitively in swimming and enjoy engaging with and building the local swimming community in Albuquerque!
+Areas of active research:
+
+-   Methods for assessing risk of compound (multivariate) extreme weather events with a particular focus on impact to energy grid infrastructure
+
+-   Validation of AI climate model emulation
+
+-   Detection & Classification algorithms using remote sensing data, e.g. how to use often noisy observational data to detect anomalies.
+
+-   Environmental Security - Monitoring and risk assessment of environmental/climate threats to water security, food security, energy security and global supply chain
