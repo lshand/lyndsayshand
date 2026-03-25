@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: CV.qmd
+        text: CV
       - href: pubs.qmd
         text: Publications
       - href: pbconsulting.qmd

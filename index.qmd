@@ -7,13 +7,16 @@ about:
     - icon: github
       text: Github
       href: https://github.com/lshand
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/lyndsay-shand
 ---
 
 Welcome to my personal research blog.
 
 It is a continual work in progress.
 
-Email: lshand\@sandia.gov
+Email: lyndsay.es\@gmail.com
 
 About Me:
 
