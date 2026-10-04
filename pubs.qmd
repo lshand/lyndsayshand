@@ -1,10 +1,21 @@
 ---
-title: "Publications"
+title: " Awards & Publications"
 ---
+
+## Awards
+
+*Early Investigator Award*, American Statistical Association, Section on Statistics and the Environment, August 2025
+
+* “for outstanding contributions to statistics for climate research with high impact on national security, building
+multidisciplinary and multi-institutional teams in this area, exceptional mentoring of staff, postdocs, and students in
+environmental statistics, creating collaborations between climate and data sciences for national laboratories and the
+larger environmental statistics community, and for providing excellent professional service to ASA/ENVR."
+
+## Publications
 
 Wagman, B. M., G. Collins, L. Shand, and B. Harrop. [Automated Calibration of E3SMv3 for Low or High Equilibrium Climate Sensitivity.](https://essopenarchive.org/users/660285/articles/1353280-automated-calibration-of-e3smv3-for-low-or-high-equilibrium-climate-sensitivity) *In Revisions.*
 
-Yan, S., Wang, M., Harris, T., Shand, L. and Li, B. (2026), Changepoint Detection and Estimation for Spatial Functional Data - Detecting the Fingerprint of Mt. Pinatubo Eruption on Global Temperatures. *Journal of Agriculturak, Biological and Environmental Statistics.* Accepted March 2026
+Yan, S., Wang, M., Harris, T., Shand, L. and Li, B. (2026), Changepoint Detection and Estimation for Spatial Functional Data - Detecting the Fingerprint of Mt. Pinatubo Eruption on Global Temperatures. *Journal of Agricultural, Biological and Environmental Statistics.* 
 
 Garrett, R, Shand, L. and Huerta J.G. (2025). [A multivariate dynamic linear model for characterizing downstream impact of the Mt Pinatubo volcanic eruption.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/env.70030) *Environmetrics.* 36(6).
 

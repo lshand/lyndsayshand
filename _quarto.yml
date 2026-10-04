@@ -12,7 +12,7 @@ website:
       - href: pubs.qmd
         text: Publications
       - href: pbconsulting.qmd
-        text: Pro Bono Consulting
+        text: Consulting
 
 format:
   html:
