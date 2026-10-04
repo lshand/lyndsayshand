@@ -11,7 +11,7 @@ website:
         text: CV
       - href: pubs.qmd
         text: Publications
-      - href: pbconsulting.qmd
+      - href: consulting.qmd
         text: Consulting
 
 format:

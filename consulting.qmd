@@ -1,0 +1,40 @@
+---
+title: "Lyndsay Shand Statistical Consulting"
+#subtitle: "Data Science for Good"
+---
+
+::: {.callout-note appearance="minimal" icon="false"}
+### Mission
+
+**Lyndsay Shand Statistical Consulting LLC** exists to do data science for good. I partner with non-profits, researchers, and local businesses to provide data analysis solutions focused on **environmental conservation**, **climate risk analysis**, and community resilience.
+:::
+
+## How I Can Help
+
+Whether you are trying to secure a competitive grant, interpret complex environmental datasets, collect meaningful data or communicate insights to stakeholders, I can provide support.
+
+:::: columns
+::: {.column width="75%"}
+- **Exploratory Analysis:** Uncovering meaningful patterns and trends in cluttered, messy, or unorganized datasets.
+- **Trend Interpretation:** Identifying time-series patterns to track environmental changes and/or community impact over time.
+- **Spatial Analysis:** Making sense of localized or global earth system data.
+- **Risk Analysis:** Tailored evalution of extreme climate risk to localized infrastructure or other valuable asset.
+- **Statistically Sound Sampling:** Designing surveys and data collection strategies that stand up to rigorous peer review.
+- **Research Grant Support:** Offering consulting or data analysis support to provide grants with concrete evidence of viability.
+:::
+::::
+
+## Let's Work Together
+
+Don't see what you are looking for? Reach out and ask if I can help!
+
+I also provide pro bono consulting and data science services upon request for eligible non-profits and small businesses. If you have a project in mind, let’s start a conversation.
+
+::: {.callout-tip appearance="simple"}
+### Get in Touch
+
+📧 **Email:** [lyndsayshand\@gmail.com](mailto:lyndsayshand@gmail.com)\
+*Please include a brief overview of your organization, the data you are working with, and what goals you hope to achieve.*
+:::
+
+------------------------------------------------------------------------
